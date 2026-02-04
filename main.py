@@ -1,1 +1,1 @@
-print("Demo from Prince")
+print("Demo from Prince - GitHub Actions test")
